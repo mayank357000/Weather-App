@@ -51,7 +51,7 @@
 class Forecast{
     // We don't need any arguments because each request is taking in the same properties below
     constructor(){
-        this.key = 'PGoEgAHY7GiYxRnJBGMt9iwB7wSaFp0c';
+        this.key = 'jKvkhjaQJEMKEMLXoEGdoDYYbEfVuOCn';
         this.weatherURI = 'https://dataservice.accuweather.com/currentconditions/v1/';
         this.cityURI = 'https://dataservice.accuweather.com/locations/v1/cities/search';
     }
